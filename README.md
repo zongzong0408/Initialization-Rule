@@ -1,1 +1,6 @@
-# Initialization-Rule
+# Initialization-Rule  
+> ## Introduction :    
+> . . .  
+> . . .  
+> ## Matters needing attention :    
+> - ...
